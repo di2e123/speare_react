@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/speare_react/static/js/main.88477c73.chunk.js",
-    "main.js.map": "/speare_react/static/js/main.88477c73.chunk.js.map",
+    "main.js": "/speare_react/static/js/main.a555ee4e.chunk.js",
+    "main.js.map": "/speare_react/static/js/main.a555ee4e.chunk.js.map",
     "runtime-main.js": "/speare_react/static/js/runtime-main.18e58db8.js",
     "runtime-main.js.map": "/speare_react/static/js/runtime-main.18e58db8.js.map",
     "static/js/2.3e9f6560.chunk.js": "/speare_react/static/js/2.3e9f6560.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.18e58db8.js",
     "static/js/2.3e9f6560.chunk.js",
-    "static/js/main.88477c73.chunk.js"
+    "static/js/main.a555ee4e.chunk.js"
   ]
 }
